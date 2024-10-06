@@ -75,7 +75,11 @@ h4 {
     border-color: #1dc5e3;
 }
 
-.btn-secondary: hover {
+.btn-secondary:hover {
     color: #FFFFFF;
     background-color: #1dc5e3;
+}
+
+.comment {
+    margin: 20px 0px 20px 20px;
 }
